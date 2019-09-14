@@ -8,5 +8,12 @@
   "license": "MIT",
   "dependencies": {
     "discord.js": "discordjs/discord.js"
+  },
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "eslint-config-aqua": "^6.0.2"
+  },
+  "eslintConfig" :{
+    "extends": "aqua/node"
   }
 }
