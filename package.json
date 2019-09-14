@@ -1,0 +1,12 @@
+{
+  "name": "Discord",
+  "version": "1.0.0",
+  "description": "Projet discord ChromaGames",
+  "main": "main.js",
+  "repository": "https://github.com/Lucaxx-dev/ChromaGames-discord.git",
+  "author": "Lucaxx_",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
